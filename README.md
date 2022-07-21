@@ -1,1 +1,1 @@
-Takes you to GH Page: https://harshachar.github.io/
+Click https://harshachar.github.io/
